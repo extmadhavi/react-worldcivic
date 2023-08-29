@@ -58,7 +58,7 @@ Follow these steps to set up and use this repository:
 1. **Clone the Repository:**
    ```
    git clone https://github.com/extmadhavi/react-worldcivic.git
-   cd your-repo
+   cd react-worldcivic
    ```
 
 2. **Install Dependencies:**
