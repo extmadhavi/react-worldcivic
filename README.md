@@ -51,9 +51,6 @@ Sure, here's how you can structure the bullet points for your GitHub README:
   - Employ a visually appealing design that prioritizes both aesthetics and usability.
   - Create an engaging and attractive user interface.
 
-### Getting started
-Certainly! Here's a sample "Get Started with Repo" section for your GitHub README:
-
 ## Get Started with This Repo
 
 Follow these steps to set up and use this repository:
