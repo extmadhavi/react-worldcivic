@@ -1,5 +1,5 @@
 # WorldCivic
-React , bootstrap, json
+React , tailwind, json
 See all countries from the API on the homepage
 Search for a country using an input field
 Filter countries by region
