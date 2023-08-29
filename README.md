@@ -12,7 +12,7 @@ Inspired by Frontend Mentor Challenge : REST Countries API with color theme swit
 ## Mobile View
 
 
-### Main Features
+## Main Features
 Sure, here's how you can structure the bullet points for your GitHub README:
 
 - **Responsive Design:**
